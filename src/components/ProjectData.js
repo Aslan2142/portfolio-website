@@ -3,5 +3,5 @@ export const FeaturedProjects = [
 ]
 
 export const BlacklistedProjects = [
-    "J01", "J02", "J03", "J04", "J05", "J06", "TechSim"
+    "J01", "J02", "J03", "J04", "J05", "J06", "TechSim", "portfolio-website"
 ]
