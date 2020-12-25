@@ -30,7 +30,7 @@ class Portfolio extends React.Component {
         return this.state.projects.map((item, index) => {
             if (!FeaturedProjects.includes(item.name)) return null;
             return (
-                <Carousel.Item key={'slide' + index} style={this.carouselItemStyle}>
+                <Carousel.Item key={'slide' + index} interval={2500} style={this.carouselItemStyle}>
                     <a href={item.html_url}>
                         <img src={this.requestImage('./' + item.name + '.jpg').default} width="100%" alt={item.name} style={{ borderRadius: "0.25rem" }} />
                         <Carousel.Caption>
@@ -46,7 +46,7 @@ class Portfolio extends React.Component {
     slideshow = () => {
         return (
             <div className="mt-5" id="portfolio">
-                <Carousel>
+                <Carousel >
                     {this.slideItems()}
                 </Carousel>
             </div>
