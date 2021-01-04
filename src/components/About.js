@@ -15,7 +15,7 @@ class About extends React.Component {
                     </div>
                     <div className="col col-lg-5 text-left">
                         <p>
-                            Self-motivated and passionate junior software developer looking for an entry level developer job. Eager to learn and have a proven knowledge of several programming languages, frameworks, libraries and I’m able to develop both web and desktop applications. Strong problem solving skills and a creative and open mind. Fast learner that is not afraid to work alone or in a team. Proficient with working in Windows as well as in Linux-based systems as I use them on daily basis.
+                            Motivated and passionate junior software developer looking for an entry level developer job. Eager to learn and have a proven knowledge of several programming languages, frameworks, libraries and I’m able to develop both web and desktop applications. Strong problem solving skills and a creative and open mind. Fast learner that is not afraid to work alone or in a team. Proficient with working in Windows as well as in Linux-based systems as I use them on daily basis.
                         </p>
                     </div>
                 </div>
