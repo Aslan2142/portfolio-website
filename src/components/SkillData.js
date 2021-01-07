@@ -15,6 +15,7 @@ export const SkillData = [
     [ "SQL", 15 ],
     [ "NoSql (MongoDB)", 30 ], [ "newline" ],
 
+    [ ".NET", 60 ],
     [ "Winforms", 42 ],
     [ "WPF", 36 ],
     [ "JavaFX", 20 ],

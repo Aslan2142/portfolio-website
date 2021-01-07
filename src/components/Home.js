@@ -18,7 +18,7 @@ class Home extends React.Component {
                 <div id="home">
                     <div style={{ position: "relative", zIndex: 0 }}>
                         <img className="no-drag" src={CoverBackground} alt="background" width="100%" style={{ position: "relative" }} />
-                        <div className="text-center text-light" style={{ position: "absolute", margin: "auto", top: 0, left: 0, right: 0, bottom: 80, height: 0 }}>
+                        <div className="text-center text-light" style={{ position: "absolute", margin: "auto", top: 0, left: 0, right: 0, bottom: 90, height: 0 }}>
                             <h1>JÁN TRENČANSKÝ</h1>
                             <p className="text-muted">Junior Software Developer</p>
                         </div>
