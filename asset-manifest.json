@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.d2b0062e.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.73f7dbc8.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.73f7dbc8.chunk.js.map",
+    "main.js": "/portfolio-website/static/js/main.807a1b0e.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.807a1b0e.chunk.js.map",
     "runtime-main.js": "/portfolio-website/static/js/runtime-main.8829b49a.js",
     "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.8829b49a.js.map",
     "static/css/2.43b2b750.chunk.css": "/portfolio-website/static/css/2.43b2b750.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.43b2b750.chunk.css.map": "/portfolio-website/static/css/2.43b2b750.chunk.css.map",
     "static/css/main.d2b0062e.chunk.css.map": "/portfolio-website/static/css/main.d2b0062e.chunk.css.map",
     "static/js/2.1ebe7845.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.1ebe7845.chunk.js.LICENSE.txt",
-    "static/media/CoverBackground.53108791.jpg": "/portfolio-website/static/media/CoverBackground.53108791.jpg",
+    "static/media/CoverBackground.a753cd02.jpg": "/portfolio-website/static/media/CoverBackground.a753cd02.jpg",
     "static/media/CustomTwitchTranscodeServer.jpg": "/portfolio-website/static/media/CustomTwitchTranscodeServer.ed67c048.jpg",
     "static/media/FacePhoto.ecd69c4f.jpg": "/portfolio-website/static/media/FacePhoto.ecd69c4f.jpg",
     "static/media/GitHubLogo.461ee963.svg": "/portfolio-website/static/media/GitHubLogo.461ee963.svg",
@@ -28,6 +28,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.1ebe7845.chunk.js",
     "static/css/main.d2b0062e.chunk.css",
-    "static/js/main.73f7dbc8.chunk.js"
+    "static/js/main.807a1b0e.chunk.js"
   ]
 }
